@@ -1,4 +1,4 @@
-package `04List`
+package `01List`
 
 fun main() {
     val anyList = mutableListOf('a', "Kotlin", 3, true)

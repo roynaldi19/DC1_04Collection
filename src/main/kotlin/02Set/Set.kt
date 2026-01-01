@@ -1,4 +1,4 @@
-package `05Set`
+package `02Set`
 
 fun main() {
     //set hanya di isi angka unik atau berbeda

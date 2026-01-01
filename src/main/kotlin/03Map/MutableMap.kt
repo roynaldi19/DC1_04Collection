@@ -1,4 +1,4 @@
-package `06Map`
+package `03Map`
 
 fun main() {
     val mutableCapital = mutableMapOf(

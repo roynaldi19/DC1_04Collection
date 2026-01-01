@@ -5,14 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d8095e-1785-48e4-84b1-a672102e5a04" name="Changes" comment="update mar 23">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/01List/PerulanganList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/02Set/PerulanganSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/03Map/PerulanganMap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/01PenggunaanDataClass/DataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/01PenggunaanDataClass/DataClasses.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/02MenyalinMemodifikasiDataClass/CopyData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/02MenyalinMemodifikasiDataClass/CopyData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/03DestructuringDeclarations/DestructuringDeclarations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/03DestructuringDeclarations/DestructuringDeclarations.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/04List/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04List/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05Set/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/05Set/Set.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06Map/MutableMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/06Map/MutableMap.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/01PenggunaanDataClass/DataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/00PenggunaanDataClass/DataClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/02MenyalinMemodifikasiDataClass/CopyData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/00PenggunaanDataClass/CopyData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/03DestructuringDeclarations/DestructuringDeclarations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/00PenggunaanDataClass/DestructuringDeclarations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/04List/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/01List/List.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/04List/MutableList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/01List/MutableList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05Set/MutableSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/02Set/MutableSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05Set/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/02Set/Set.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06Map/Map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/03Map/Map.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06Map/MutableMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/03Map/MutableMap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/count.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/count.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/filterFilterNot.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/filterFilterNot.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/findFirstOrNullLastOrNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/findFirstOrNullLastOrNull.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/firstLast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/firstLast.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/map.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/sorted.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/sorted.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07CollectionsOperations/sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/04CollectionsOperations/sum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/08Sequences/Sequences.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,78 +41,128 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "roynaldi19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/roynaldi19/DC1_04Collection.git",
+    "accountId": "26705be9-9dd0-4a97-bd9a-8106cba5d19b"
+  }
+}]]></component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Ryo\.gradle\wrapper\dists\gradle-7.1-bin\4pslxx9lrxt5svtz5wbnb6tkz\gradle-7.1" javaHome="C:\Users\Ryo\.jdks\corretto-1.8.0_472" gradleVersion="7.1" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="252P3A5dVSPNBxdQ5NrNYdsmtLV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/royna/IdeaProjects/DC1_03DataClasses&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.DC1_04Collection [:00PenggunaanDataClass.DestructuringDeclarationsKt.main()].executor": "Run",
+    "Gradle.DC1_04Collection [:01List.ListKt.main()].executor": "Run",
+    "Gradle.DC1_04Collection [:01List.PerulanganListKt.main()].executor": "Run",
+    "Gradle.DC1_04Collection [:01PenggunaanDataClass.CopyDataKt.main()].executor": "Run",
+    "Gradle.DC1_04Collection [:02Set.PerulanganSetKt.main()].executor": "Run",
+    "Gradle.DC1_04Collection [:03Map.MapKt.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ryo/IdeaProjects/DC1_04Collection/src/main/kotlin/03Map",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryo\IdeaProjects\DC1_04Collection\src\main\kotlin\03Map" />
+      <recent name="C:\Users\Ryo\IdeaProjects\DC1_04Collection\src\main\kotlin\02Set" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="01PenggunaanDataClass" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FirstLastKt">
-    <configuration name="FilterFilterNotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="07CollectionsOperations.FilterFilterNotKt" />
-      <module name="DC1_03DataClasses.main" />
+  <component name="RunManager" selected="Kotlin.DestructuringDeclarationsKt">
+    <configuration name="CopyDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="00PenggunaanDataClass.CopyDataKt" />
+      <module name="DC1_04Collection.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="07CollectionsOperations.FirstLastKt" />
-      <module name="DC1_03DataClasses.main" />
+    <configuration name="DestructuringDeclarationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="00PenggunaanDataClass.DestructuringDeclarationsKt" />
+      <module name="DC1_04Collection.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="07CollectionsOperations.MapKt" />
-      <module name="DC1_03DataClasses.main" />
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="03Map.MapKt" />
+      <module name="DC1_04Collection.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="07CollectionsOperations.SortedKt" />
-      <module name="DC1_03DataClasses.main" />
+    <configuration name="PerulanganListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="01List.PerulanganListKt" />
+      <module name="DC1_04Collection.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="07CollectionsOperations.SumKt" />
-      <module name="DC1_03DataClasses.main" />
+    <configuration name="PerulanganSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="02Set.PerulanganSetKt" />
+      <module name="DC1_04Collection.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FirstLastKt" />
-        <item itemvalue="Kotlin.SortedKt" />
-        <item itemvalue="Kotlin.SumKt" />
-        <item itemvalue="Kotlin.MapKt (1)" />
-        <item itemvalue="Kotlin.FilterFilterNotKt" />
+        <item itemvalue="Kotlin.DestructuringDeclarationsKt" />
+        <item itemvalue="Kotlin.CopyDataKt" />
+        <item itemvalue="Kotlin.MapKt" />
+        <item itemvalue="Kotlin.PerulanganSetKt" />
+        <item itemvalue="Kotlin.PerulanganListKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -1,4 +1,4 @@
-package `05Set`
+package `02Set`
 
 fun main() {
     val mutableSet = mutableSetOf(1, 2, 4, 2, 1, 5)

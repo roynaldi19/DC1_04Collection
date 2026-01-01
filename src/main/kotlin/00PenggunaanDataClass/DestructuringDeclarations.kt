@@ -1,6 +1,4 @@
-package `03DestructuringDeclarations`
-
-data class DataUser(val name: String, val age: Int)
+package `00PenggunaanDataClass`
 
 fun main() {
     val dataUser = DataUser("Roy", 29)

@@ -1,4 +1,4 @@
-package `01PenggunaanDataClass`
+package `00PenggunaanDataClass`
 
 class User(val name: String, val age: Int) {
     override fun toString(): String {
